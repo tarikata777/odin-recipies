@@ -1,0 +1,10 @@
+div.container, div.intro{
+    text-align: center;
+}
+
+ul.myUL, ol.myOL{
+    display: inline-block;
+    text-align: left;
+}
+
+

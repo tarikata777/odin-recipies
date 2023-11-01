@@ -15,3 +15,6 @@ img{
     font-size: 60px;
 }
 
+div.list{
+    display: inline-block;
+}
