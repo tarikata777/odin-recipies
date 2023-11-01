@@ -1,4 +1,6 @@
-div.container, div.intro{
+*{
+    background-color: darkred;
+    color:gold;
     text-align: center;
 }
 
@@ -6,5 +8,6 @@ ul.myUL, ol.myOL{
     display: inline-block;
     text-align: left;
 }
+
 
 
