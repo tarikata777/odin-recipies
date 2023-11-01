@@ -1,0 +1,17 @@
+*{
+    background-color: darkred;
+    color: gold;
+    text-align: center;
+}
+
+img{
+    height: 500px;
+    width: 700px;
+    align-items: center;
+}
+
+#heading{
+    font-family: "Brush Script MT", cursive;
+    font-size: 60px;
+}
+
